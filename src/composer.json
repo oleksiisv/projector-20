@@ -1,0 +1,10 @@
+{
+    "require": {
+        "fakerphp/faker": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Svystunov\\ProjectorL8\\": "src"
+        }
+    }
+}
